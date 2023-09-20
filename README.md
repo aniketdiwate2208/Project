@@ -1,5 +1,5 @@
 # Project PDF Uploader
-This project is developed to upload a pdf file, a new user firstly need to register. After sucessful registration registered user need to login with credentials like email and password so that he/she can upload a .pdf file.
+This project is developed to upload a pdf file, a new user firstly need to register. After successful registration registered user need to login with credentials like email and password so that he/she can upload a .pdf file.
 
 This Project consist of two folder :
 - pdfuploader (Frontend Files Folder) 
@@ -39,7 +39,7 @@ npm start
 ## Project setup for Backend Files Folder (ExpressJs,NodeJs) 
 
 - Make sure your system has node installed before installing dependencies.
-- Navigate to client side project folder:
+- Navigate to server side project folder:
   `cd pdfuploaderbackend`
 - Install the dependencies using following command
 ```
