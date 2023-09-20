@@ -5,10 +5,27 @@ This Project consist of two folder :
 - pdfuploader (Frontend Files Folder) 
 - pdfuploaderbackend (Backend Files Folder)
 
+## Features
+
+- **User Authentication:** Users can log in or sign up using correct credentials
+
+- **PDF Upload:** Authenticated users can upload PDF files.
+
+## Getting Started
+To get started with this project locally, follow these steps:
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/aniketdiwate2208/Project.git
+
+  
 
 ## Project setup for Frontend Files Folder (ReactJs) 
 
 - Make sure your system has node installed before installing dependencies.
+- Navigate to client side project folder:
+  `cd pdfuploader`
 - Install the dependencies using following command
 ```
  npm install 
@@ -22,6 +39,8 @@ npm start
 ## Project setup for Backend Files Folder (ExpressJs,NodeJs) 
 
 - Make sure your system has node installed before installing dependencies.
+- Navigate to client side project folder:
+  `cd pdfuploaderbackend`
 - Install the dependencies using following command
 ```
  npm install 
@@ -29,5 +48,5 @@ npm start
 - Run the following command to run backend server
 ```
 node index.js
-
+```
 
