@@ -2,8 +2,8 @@
 This project is developed to upload a pdf file, a new user firstly need to register. After sucessful registration registered user need to login with credentials like email and password so that he/she can upload a .pdf file.
 
 This Project consist of two folder :
--pdfuploader (Frontend Files Folder)
--pdfuploaderbackend (Backend Files Folder)
+- pdfuploader (Frontend Files Folder) 
+- pdfuploaderbackend (Backend Files Folder)
 
 
 ## Project setup for Frontend Files Folder (ReactJs) 
