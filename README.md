@@ -16,9 +16,9 @@ To get started with this project locally, follow these steps:
 
 1. Clone the repository:
 
-   ```bash
+   ```
    git clone https://github.com/aniketdiwate2208/Project.git
-
+   ```
   
 
 ## Project setup for Frontend Files Folder (ReactJs) 
