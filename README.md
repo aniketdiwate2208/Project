@@ -41,6 +41,7 @@ npm start
 - Make sure your system has node installed before installing dependencies.
 - Navigate to server side project folder:
   `cd pdfuploaderbackend`
+- You can either use your own local mongoDB database or any cloud database just change mongoURI in index.js file
 - Install the dependencies using following command
 ```
  npm install 
