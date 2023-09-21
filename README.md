@@ -7,7 +7,6 @@ This Project consist of two folder :
 
 ## Technologies Used 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,mongodb,express,react,nodejs,github,&perline=8)](https://skillicons.dev)
-
 ## Features
 
 - **User Authentication:** Users can log in or sign up using correct credentials
