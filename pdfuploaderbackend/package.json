@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "type": "module",
+  "proxy": "http://localhost:9002",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
