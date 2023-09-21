@@ -54,4 +54,4 @@ node index.js
 ```
 
 ## Screenshot of Project
-![Registration page](https://github.com/aniketdiwate2208/Project/assets/Registration.jpg)
+![Registration page](https://github.com/aniketdiwate2208/Project/blob/main/assets/Registration.jpg)
