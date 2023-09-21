@@ -53,3 +53,5 @@ npm start
 node index.js
 ```
 
+## Screenshot of Project
+![Registration page](https://github.com/aniketdiwate2208/Project/assets/Registration Page.jpg)
