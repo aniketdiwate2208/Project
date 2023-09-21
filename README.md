@@ -5,6 +5,9 @@ This Project consist of two folder :
 - pdfuploader (Frontend Files Folder) 
 - pdfuploaderbackend (Backend Files Folder)
 
+## Technologies Used 
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,mongodb,express,react,node,github,&perline=7)](https://skillicons.dev)
+
 ## Features
 
 - **User Authentication:** Users can log in or sign up using correct credentials
